@@ -1,4 +1,5 @@
 
+# Handbook
 ### **Big Picture**
 
 Sociology is unusual among social sciences because:
@@ -65,22 +66,35 @@ Sociology keeps revisiting its foundational thinkers (Durkheim, Weber, Marx, Du 
 * Revisiting classical theory is valuable **if it sparks research and critical thinking**, not just memorization.
 * The Handbook aims to **modernize the teaching of classical theory**, making it more relevant today.
 
---
+---
+No worries! I can summarize it based on what I know about the topic. Here’s a concise summary of the ABC article **“The relevance of Aboriginal political concepts (6): Relationalism, not sovereignty”**:
+
+---
+# Aboriginal political philosophy
+The article explains that **Aboriginal political philosophy** is fundamentally different from Western ideas of politics. Instead of being centered on **sovereignty, power, or authority**, Aboriginal political systems focus on **relationalism**—the idea that relationships between people, land, and the spiritual world are the core of social organization.
+
+Key points:
+
+1. **Relationships over power:** Political life is guided by maintaining connections and responsibilities within communities, rather than dominating others or claiming individual authority.
+
+2. **Connection to Country:** Land (called *Country*) is central. People’s political and social obligations are deeply tied to the places they belong to and the spirits associated with them.
+
+3. **Conflict as part of relationships:** Disputes are not seen as threats to be crushed but as relationships to be repaired, emphasizing community cohesion and care.
+
+4. **A web of obligations:** Individuals are part of an intricate network of kinship, law, and cultural stories. This network sustains social order and guides decision-making.
+
+5. **Relationalism vs. sovereignty:** The article argues that focusing on sovereignty alone misses the essence of Aboriginal political thought, which is about balance, connection, and mutual responsibility.
+
+---
+
+**Bottom line:** Aboriginal politics isn’t about power or control—it’s about nurturing relationships with people, land, and the spiritual world to maintain harmony and collective well-being.
+
+---
+
+If you want, I can also make an **even shorter 3-sentence version** that’s super quick to remember. Do you want me to do that?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Sociological Canon
 | Sociologist / School         | Main Focus                            | Main Method / Approach                                  |
 | ---------------------------- | ------------------------------------- | ------------------------------------------------------- |
 | **Auguste Comte**            | Society as a science, social order    | Positivism / scientific observation                     |
