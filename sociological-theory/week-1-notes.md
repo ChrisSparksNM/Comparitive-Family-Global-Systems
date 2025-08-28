@@ -1,5 +1,3 @@
-Here’s a simplified breakdown of what you’ve shared from Abrutyn and Lizardo’s *Handbook of Classical Sociological Theory*:
-
 ---
 
 ### **Big Picture**
