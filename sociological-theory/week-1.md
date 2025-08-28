@@ -1,7 +1,7 @@
 # Resources
 
 ## Handbook of Classical Sociological Theory
-- [Download Handbook of Classical Sociological Theory](#)  
+- [Download Handbook of Classical Sociological Theory](https://github.com/ChrisSparksNM/Comparitive-Family-Global-Systems/blob/main/sociological-theory/readings/Handbook.pdf))  
 - **Sections:** Introduction (p. 1–5)
 
 ## Haudenosaunee Political Theory and the Great Law of Peace
