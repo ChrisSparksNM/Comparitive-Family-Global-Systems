@@ -91,8 +91,6 @@ Key points:
 
 ---
 
-If you want, I can also make an **even shorter 3-sentence version** that’s super quick to remember. Do you want me to do that?
-
 
 # Sociological Canon
 | Sociologist / School         | Main Focus                            | Main Method / Approach                                  |
