@@ -1,6 +1,3 @@
-Here’s a more detailed summary of S. Elizabeth Bird’s *“Gendered Construction of the American Indian in Popular Media”*:
-
----
 
 ### **Purpose of the Paper**
 
